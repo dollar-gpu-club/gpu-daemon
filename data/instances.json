@@ -1,0 +1,56 @@
+{
+  "p3.2xlarge": {
+    "vcpus": 8,
+    "ecpus": 26,
+    "storage": "61 GiB",
+    "price": 3.06
+  },
+  "p3.8xlarge": {
+    "vcpus": 32,
+    "ecpus": 94,
+    "storage": "244 GiB",
+    "price": 12.24
+  },
+  "p3.16xlarge": {
+    "vcpus": 64,
+    "ecpus": 188,
+    "storage": "488 GiB",
+    "price": 24.48
+  },
+  "p2.xlarge": {
+    "vcpus": 4,
+    "ecpus": 12,
+    "storage": "61 GiB",
+    "price": 0.9
+  },
+  "p2.8xlarge": {
+    "vcpus": 32,
+    "ecpus": 94,
+    "storage": "488 GiB",
+    "price": 7.2
+  },
+  "p2.16xlarge": {
+    "vcpus": 64,
+    "ecpus": 188,
+    "storage": "768 GiB",
+    "price": 14.4
+  },
+  "g3.4xlarge": {
+    "vcpus": 16,
+    "ecpus": 47,
+    "storage": "122 GiB",
+    "price": 1.14
+  },
+  "g3.8xlarge": {
+    "vcpus": 32,
+    "ecpus": 94,
+    "storage": "244 GiB",
+    "price": 2.28
+  },
+  "g3.16xlarge": {
+    "vcpus": 64,
+    "ecpus": 188,
+    "storage": "488 GiB",
+    "price": 4.56
+  }
+}
